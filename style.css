@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+#featured-property>p {
+  margin: 10px auto;
+  width: 800px;
+}
+
+#details {
+  background-color: red;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
